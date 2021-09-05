@@ -1,0 +1,25 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Sep  5 12:49:18 2021
+
+@author: Gautam Sharma
+"""
+
+
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #80bfff;
+
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #80bfff;
+  }
